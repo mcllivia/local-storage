@@ -1,0 +1,7 @@
+{
+  "name": "Local storage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
